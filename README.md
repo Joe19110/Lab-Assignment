@@ -3,6 +3,7 @@
 ## Program involving animal class that showcases the features of OOP
 
 Constructor for Animal class
+
 ![img.png](img.png)
 
 Getters and setters for the Animal class
