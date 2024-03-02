@@ -7,6 +7,7 @@ Constructor for Animal class
 ![img.png](img.png)
 
 Getters and setters for the Animal class
+
 ![img_1.png](img_1.png)
 
 The Dog class extends from the Animal class, inheriting its properties, hence making use of the inheritance feature.
